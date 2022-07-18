@@ -29,4 +29,5 @@ double serie(double n)
 int main()
 {
     cout<<endl<<"El resultado cuando N es 5 es: "<<serie(5);
+    cout<<endl<<"El resultado cuando N es 10 es: "<<serie(10);
 }
